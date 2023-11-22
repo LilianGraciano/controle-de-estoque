@@ -1,0 +1,5 @@
+C:\Users\Lilian\Desktop\PROJETOS C#\CONTOLE DE ESTOQUE\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\Controle de estoque.csproj.AssemblyReference.cache
+C:\Users\Lilian\Desktop\PROJETOS C#\CONTOLE DE ESTOQUE\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\Controle de estoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lilian\Desktop\PROJETOS C#\CONTOLE DE ESTOQUE\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\Controle de estoque.AssemblyInfoInputs.cache
+C:\Users\Lilian\Desktop\PROJETOS C#\CONTOLE DE ESTOQUE\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\Controle de estoque.AssemblyInfo.cs
+C:\Users\Lilian\Desktop\PROJETOS C#\CONTOLE DE ESTOQUE\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\Controle de estoque.csproj.CoreCompileInputs.cache

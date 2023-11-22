@@ -1,0 +1,16 @@
+C:\Users\Lilian\Desktop\PROJETOS C#\Controle_de_estoque\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\Controle_de_estoque.csproj.AssemblyReference.cache
+C:\Users\Lilian\Desktop\PROJETOS C#\Controle_de_estoque\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\Controle_de_estoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lilian\Desktop\PROJETOS C#\Controle_de_estoque\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\Controle_de_estoque.AssemblyInfoInputs.cache
+C:\Users\Lilian\Desktop\PROJETOS C#\Controle_de_estoque\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\Controle_de_estoque.AssemblyInfo.cs
+C:\Users\Lilian\Desktop\PROJETOS C#\Controle_de_estoque\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\Controle_de_estoque.csproj.CoreCompileInputs.cache
+C:\Users\Lilian\Desktop\PROJETOS C#\Controle_de_estoque\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\Controle_de_estoque.exe
+C:\Users\Lilian\Desktop\PROJETOS C#\Controle_de_estoque\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\Controle_de_estoque.deps.json
+C:\Users\Lilian\Desktop\PROJETOS C#\Controle_de_estoque\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\Controle_de_estoque.runtimeconfig.json
+C:\Users\Lilian\Desktop\PROJETOS C#\Controle_de_estoque\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\Controle_de_estoque.runtimeconfig.dev.json
+C:\Users\Lilian\Desktop\PROJETOS C#\Controle_de_estoque\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\Controle_de_estoque.dll
+C:\Users\Lilian\Desktop\PROJETOS C#\Controle_de_estoque\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\Controle_de_estoque.pdb
+C:\Users\Lilian\Desktop\PROJETOS C#\Controle_de_estoque\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\Controle_de_estoque.dll
+C:\Users\Lilian\Desktop\PROJETOS C#\Controle_de_estoque\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\refint\Controle_de_estoque.dll
+C:\Users\Lilian\Desktop\PROJETOS C#\Controle_de_estoque\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\Controle_de_estoque.pdb
+C:\Users\Lilian\Desktop\PROJETOS C#\Controle_de_estoque\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\Controle_de_estoque.genruntimeconfig.cache
+C:\Users\Lilian\Desktop\PROJETOS C#\Controle_de_estoque\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\ref\Controle_de_estoque.dll
